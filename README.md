@@ -1,1 +1,1 @@
-# WinePredictions
+# Predictions
